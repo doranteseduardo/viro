@@ -1,9 +1,10 @@
 {
-  "name": "react-viro",
+  "name": "@doranteseduardo/react-viro",
   "main": "index.js",
   "version": "2.17.0",
   "license": "MIT",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "repository": "git@github.com:doranteseduardo/viro.git",
   "scripts": {
     "start": "echo 'I dont think you meant to run npm start here.'",
     "test": "jest"
